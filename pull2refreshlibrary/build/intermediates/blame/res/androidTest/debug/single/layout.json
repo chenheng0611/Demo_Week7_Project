@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    }
+]

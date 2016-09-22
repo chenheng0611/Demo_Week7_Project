@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/indicator_arrow.png"
+    },
+    {
+        "merged": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Volumes/BOOTCAMP/Xray/android_studio_code/Demo_Week7_Project/pull2refreshlibrary/build/intermediates/bundles/debug/res/drawable-hdpi-v4/default_ptr_flip.png"
+    }
+]
